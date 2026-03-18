@@ -79,7 +79,7 @@ nav li {
 .hero {
     height: 100vh;
     /* ★ここにカウンターの大きな写真を設定しました (../ を忘れずに) */
-    background-image: url('images/S__10551301.jpg');
+    background-image: url('S__10551301.jpg');
     background-size: cover;
     background-position: center;
     position: relative;
